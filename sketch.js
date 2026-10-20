@@ -1,4 +1,4 @@
-/* RE:PAIR / guided midterm edition. No analytics, storage, or external scripts. */
+/* RE:PAIR / guided midterm edition
 (function(){
 'use strict';
 const {data,sources,quotes}=globalThis.REPAIR_CONTENT;
