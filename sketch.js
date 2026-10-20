@@ -1,4 +1,4 @@
-/* RE:PAIR / guided midterm edition
+// RE:PAIR — Attention Manual
 (function(){
 'use strict';
 const {data,sources,quotes}=globalThis.REPAIR_CONTENT;
