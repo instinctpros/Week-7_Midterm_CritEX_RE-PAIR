@@ -1,4 +1,4 @@
-/* RE:PAIR — editorial content. Fields, branches, research, and illustration briefs. */
+/* RE:PAIR — editorial content: fields, branches, research, and illustration briefs. */
 (function(root){
 'use strict';
 const choice=(id,label,options)=>({id,label,type:'choice',options});
